@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15837#Jerusalem
 gutenberg_issued: '2005-05-16'
 gutenberg_type: Text
 identifiers:
